@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Football"""
+""" Football """
 def is_dangerous(players_formation):
     previous_player, dangerous_meter = 2, 0
     for player in players_formation: 
