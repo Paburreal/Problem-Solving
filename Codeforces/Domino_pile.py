@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Domino pile"""
+""" Domino pile """
 M, N = map(int, input().split())
 
 def max_dominos(base, height):
