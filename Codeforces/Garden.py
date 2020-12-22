@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""       Garden"""
+""" Garden """
 def best_bucket(number_of_buckets, lenght_of_garden, buckets):
     buckets.sort(reverse = True)
     for bucket in buckets:
