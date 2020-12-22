@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-""" Death Note """
+"""                Death Note """
 def pages_turned(names_capacity, number_of_names):
     temp = 0
     pages = []
